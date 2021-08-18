@@ -1,5 +1,5 @@
 def main():
-    # Escribe tu código abajo de esta línea
+    # Analiza la siguiente solución del ejercicio
     c = int(input("Introduce los cm: "))
     if c<100:
         print(c,"cm")
